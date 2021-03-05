@@ -30,7 +30,7 @@
 						<div class="inner">
 
 							<!-- Header -->
-									<?php include("templates\header.php");?>
+									<?php include("/templates/header.php");?>
 
 							<!-- Banner -->
 								<section id="banner">
@@ -55,7 +55,7 @@
 									</span>
 								</section>
 								
-								<?php include("templates\mainfooter.php");?>
+								<?php include("/templates/mainfooter.php");?>
 						</div>
 					</div>
 
@@ -64,8 +64,8 @@
 						<div class="inner">
 
 							<!-- Menu --> 
-								 <?php include("templates\sidebar.php");?>
-								 <?php include("templates\getintouch.php");?>
+								 <?php include("/templates/sidebar.php");?>
+								 <?php include("/templates/getintouch.php");?>
 			
 							<!--Footer>
 								<footer id="footer">
