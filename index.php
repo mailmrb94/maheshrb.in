@@ -64,7 +64,7 @@
 						<div class="inner">
 
 							<!-- Menu --> 
-								 <?php include("/templates/sidebar.php");?>
+								 <?php include("sidebar.php");?>
 								 <?php include("/templates/getintouch.php");?>
 			
 							<!--Footer>
