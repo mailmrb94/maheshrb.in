@@ -34,6 +34,6 @@
 										</li>
 										<li><a href="trophy.php">Accomplishments</a></li>
 										<li><a href="blog.php">BLOGS</a></li>								
-										<li><a href="elements.html">INTERESTS - a Bucket List</a></li>
+										
 									</ul>
 								</nav>

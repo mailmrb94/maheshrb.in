@@ -40,15 +40,15 @@
 										<blockquote><h4> A human with an Aspiration to create Inspirations.</h4></blockquote>
 										</header>
 										<!--div class="box">
-											<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. </p> </div-->
+											<p> 
+												Self praise is no recommendation. So let things be this way. Simple and elegant!
+											</p> 
+										</div-->
 										<ul class="actions">
 											<li><a href="maheshrb.php" class="button big">Discover More</a></li>
 											<!--li><a href="#sidebar" class="button big">JOB</a></li-->
 										</ul>
-										<!--ul class="actions">
-											<li><a href="#sidebar" class="button big">EDUCATION</a></li>
-											<li><a href="#sidebar" class="button big">SKills</a></li>
-										</ul-->
+										
 									</div>
 									<span class="image object">
 										<img src="images\home-image.jpeg" alt="MAHESH R B" />
