@@ -1,5 +1,5 @@
 <header id="header">
-									<a href="index.html" class="logo">Story of an <strong> experimental Life!</strong></a>
+									<a href="index.php" class="logo">Story of an <strong> experimental Life!</strong></a>
 									<ul class="icons">
 										<li><a href="https://twitter.com/mahesh_rb_" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 									<!--	
