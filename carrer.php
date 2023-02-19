@@ -41,16 +41,15 @@
 									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
 
 									<h2 id="mrb_renumerated">RENUMERTAED</h2>
-									<h2> JP Morgan Chase</h2>
+									<h3> JP MORGAN CHASE</h3>
+									<h5><i>July 2016 - July 2017</i></h5>
 									<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 									</p>
-									<h2>EMBIBE</h2>
-									<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
-															<ul>
-																<li>ROlw 1.</li>
-																<li>Sagittis lorem eleifend.</li>
-																<li>Felis dolore viverra.</li>
-															</ul>
+									<h3>EMBIBE (Indiavidual Learning Private Ltd)</h3>
+									<h5>Dec 2020- present</h5>
+									<ul>
+										<li>Felis dolore viverra.</li>
+									</ul>
 									<p></p>
 
 									<hr class="major" />
